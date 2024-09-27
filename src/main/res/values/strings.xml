@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RentWithIntentApp</string>
+    <string name="instrument_name">Instrument Name</string>
+    <string name="price">Price: 200 credits</string>
+    <string name="is_new">Is New?</string>
+    <string name="next">Next</string>
+    <string name="borrow">Borrow</string>
+    <string name="instrument_image_desc">Image of the instrument</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
